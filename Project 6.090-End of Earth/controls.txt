@@ -1,0 +1,10 @@
+The following are the controls:
+     Key    | 	Action
+     A 	    |  Turn launcher clockwise
+     D      |  Turn launcher counterclockwise
+  Spacebar  |  launch missile  
+     Q      |  Increase Missile Speed
+     E      |  Decrease Missile speed
+     esc    |  Exit Game
+	   
+     
